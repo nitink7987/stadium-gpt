@@ -154,3 +154,7 @@ Built as an AI-powered smart stadium management solution for hackathon/project s
 ## 📄 License
 
 This project is intended for educational and demonstration purposes.
+
+## 🌐 Live Demo
+
+https://stadium-gpt-rose.vercel.app
